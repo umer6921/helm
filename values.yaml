@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: trainwithshubham/node-app-test-new
+  repository: umer6921/my-note-app
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
 tag: "latest"
